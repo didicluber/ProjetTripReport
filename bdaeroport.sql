@@ -38,7 +38,9 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `ndc`, `mdp`) VALUES
-(1, 'Moussa', 'iskounene');
+(1, 'Moussa', 'iskounene'),
+(2, 'Cazaubon', 'JC'),
+(3, 'Burint', 'Saray');
 
 -- --------------------------------------------------------
 
